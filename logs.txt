@@ -1,0 +1,18 @@
+$ git log
+commit 0cbfe721b0edd6d0f95a1cad0e77981895a7bf0e (HEAD -> master)
+Author: AzureVolcano <bogoevskidavid27@gmail.com>
+Date:   Sat Apr 6 15:54:56 2024 +0200
+
+    Final commit
+
+commit e6ea53ca970c4bad3502a54a2801e181a89ecba1 (origin/bug2, bug2)
+Author: AzureVolcano <bogoevskidavid27@gmail.com>
+Date:   Sat Apr 6 15:38:25 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit da8ee48035261812b376828599fd70a5970215d3 (origin/bug1, bug1)
+Author: AzureVolcano <bogoevskidavid27@gmail.com>
+Date:   Sat Apr 6 15:39:30 2024 +0200
+
+    Call method filterOddLengthStrings in main class
